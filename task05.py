@@ -4,3 +4,6 @@ results=map(
     nums 
 )
 print(list(results))
+
+
+

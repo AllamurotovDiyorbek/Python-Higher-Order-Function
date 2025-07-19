@@ -737,6 +737,3 @@ def run_functions() -> None:
     Runs and prints results of all data processing functions for demonstration purposes.
     """
     print("Full Names:", get_full_names(randomuser_data))
-
-
-run_functions()
